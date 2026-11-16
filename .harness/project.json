@@ -19,6 +19,7 @@
     "composeDown": null
   },
   "gitflow": {
+    "strategy": "gitflow",
     "main": "main",
     "develop": "develop",
     "featurePrefix": "feature/",
@@ -28,7 +29,15 @@
     ],
     "releasePrefix": "release/",
     "hotfixPrefix": "hotfix/",
-    "allowDirectPushToMain": false
+    "allowDirectPushToMain": false,
+    "publishRemote": "origin",
+    "protection": {
+      "requirePullRequest": true,
+      "allowForcePush": false,
+      "allowDeletion": false,
+      "enforceAdmins": false
+    },
+    "workflowStack": "docs"
   },
   "memory": {
     "workspace": "homelab",
@@ -36,6 +45,7 @@
     "tokenEnv": "AI_MEMORY_TOKEN",
     "project": "estudo"
   },
+  "designSystem": null,
   "guardrails": [],
   "pipelines": [],
   "memoryScopeVerified": false
