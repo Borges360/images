@@ -1,0 +1,8 @@
+[submodule "matrix-multiplication"]
+	path = matrix-multiplication
+	url = https://github.com/Borges360/matrix-multiplication
+	branch = master
+[submodule "npu"]
+	path = npu
+	url = https://github.com/Borges360/npu-lab.git
+	branch = main
