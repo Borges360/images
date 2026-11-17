@@ -48,5 +48,5 @@
   "designSystem": null,
   "guardrails": [],
   "pipelines": [],
-  "memoryScopeVerified": false
+  "memoryScopeVerified": true
 }

@@ -13,6 +13,9 @@
         "--repository",
         "C:\\Users\\felip\\Desenvolvimento\\estudo"
       ]
+    },
+    "development": {
+      "url": "https://mcphub.lab/mcp/workspace"
     }
   }
 }
