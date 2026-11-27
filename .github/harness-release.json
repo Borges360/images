@@ -1,0 +1,6 @@
+{
+  "//": "harness:managed release v1 — gerado de workspace/harness.yaml (gitflow e versioning.baseline)",
+  "main": "main",
+  "develop": "develop",
+  "baseline": "6b3966590ae323d593e99fc50d36b80104d0b367"
+}
